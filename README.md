@@ -33,7 +33,7 @@ I also make my journey visible and accountable: I document my projects, share mi
 
 Finally, my mission is clear: everyone has something valuable to offer, and I build tools, AI systems, and environments that allow people and businesses to thrive. I don’t just create for the sake of creating—I create to make life and work smarter, easier, and more impactful.
 
-📂 Featured Projects
+## 📂 Featured Projects
 _____________________________________________________________________________________________________________________________________________________________________________________
 These projects represent my current technical level and growth as a data professional:
 
