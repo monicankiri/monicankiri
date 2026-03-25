@@ -3,7 +3,7 @@
 
 ## About Me  
 
-I solve real-world business and operational problems by designing and deploying intelligent systems, AI tools, and automation solutions. My goal is not just to build products, but to **turn challenges into actionable solutions** that help people and businesses thrive.  
+I focus on solving real-world business and operational problems by designing and deploying intelligent systems, AI tools, and automation solutions. My goal is not just to build products, but to **turn challenges into actionable solutions** that help people and businesses thrive.  
 
 I believe everyone has something valuable to offer, and I create the tools, workflows, and environments that enable people and organizations to succeed. Each project I work on transforms insights into action, problems into solutions, and small steps into intelligent systems that grow over time.  
 
