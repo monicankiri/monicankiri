@@ -68,9 +68,9 @@ Analyzed clinical data to understand key factors influencing prostate cancer out
 - **SmartArmController (Robotics Demo):** Mini robotics integration for automated tasks  
 - **AutomationToolkit (Python Scripts):** Collection of small workflow automation tools
 ---
-🧠 Skills & Tools
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-blue" /> <img src="https://img.shields.io/badge/SQL-yellow" /> <img src="https://img.shields.io/badge/Machine%20Learning-red" /> <img src="https://img.shields.io/badge/NLP-purple" /> <img src="https://img.shields.io/badge/TensorFlow-orange" /> <img src="https://img.shields.io/badge/scikit--learn-green" /> <img src="https://img.shields.io/badge/Git-black" /> </p>
+🧠 Skills & Tools
+<img src="https://img.shields.io/badge/Python-blue" /> <img src="https://img.shields.io/badge/SQL-yellow" /> <img src="https://img.shields.io/badge/Machine%20Learning-red" /> <img src="https://img.shields.io/badge/NLP-purple" /> <img src="https://img.shields.io/badge/TensorFlow-orange" /> <img src="https://img.shields.io/badge/scikit--learn-green" /> <img src="https://img.shields.io/badge/Git-black" />
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
 ### 🧩 Soft Skills
@@ -111,12 +111,8 @@ It helps individuals and businesses:
 ---
 
 ### 🌍 Vision
-
-To empower people and businesses by creating intelligent systems that turn problems into growth opportunities.
+- To empower people and businesses by creating intelligent systems that turn problems into growth opportunities.
 ---
-
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monicankiri&show_icons=true&theme=default" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicankiri&layout=compact" /> </p>
 
 ### 📫 Connect With Me
 • <a href="https://www.linkedin.com/in/nkiri-monica-2b220b268">LinkedIn</a> 
