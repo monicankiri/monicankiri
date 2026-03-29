@@ -8,7 +8,7 @@ I design and build AI systems, automation tools, and intelligent solutions that 
 My work focuses on turning ideas → systems → impact.
 
 ## 🚀 What I Do
-___________________________________________________________________________________________________________________________________________________________________________________________
+
 - AI & Machine Learning
 - Automation & Workflow Systems
 - Problem-solving for businesses
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - 🐍 Python Development
 - 🤖 Automation & Robotics
 - 🚀 Building GrowSmart (AI-powered business platform)
----
+
 
 ## 🌟 My Vision
 To empower people and businesses by creating **intelligent systems that solve real-world problems**, one project at a time—turning everyday challenges into growth opportunities through GrowSmart.
