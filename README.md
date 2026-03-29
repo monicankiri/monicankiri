@@ -30,9 +30,11 @@ These projects represent my current technical level and growth as a data profess
 
 ### 🔹 CustomerManager (Core System)
 
-Problem: Managing customer data efficiently
-Solution: Built a structured system for tracking and organizing customer data
-Tech: Python, SQLite
+Problem: Managing customer data efficiently.
+
+Solution: Built a structured system for tracking and organizing customer data.
+
+Tech: Python, SQLite.
 
 ### 🔹 ChatbotAgent
 
@@ -52,12 +54,12 @@ Problem: Helping businesses grow using intelligent systems
 Solution: AI-powered tools for insights, automation, and decision support
 Tech: Python, AI Concepts
 
-💼 Salary Prediction
+### 💼 Salary Prediction
 
 Built a regression model to predict salaries based on factors such as experience, education, and role. Skills: EDA, feature engineering, regression modeling, evaluation metrics.
 
 
-🧬 Prostate Cancer Analysis
+### 🧬 Prostate Cancer Analysis
 
 Analyzed clinical data to understand key factors influencing prostate cancer outcomes. Skills: EDA, statistical analysis, supervised learning, healthcare data handling.
 ---
@@ -70,8 +72,8 @@ Analyzed clinical data to understand key factors influencing prostate cancer out
 ---
 
 🧠 Skills & Tools
+
 <img src="https://img.shields.io/badge/Python-blue" /> <img src="https://img.shields.io/badge/SQL-yellow" /> <img src="https://img.shields.io/badge/Machine%20Learning-red" /> <img src="https://img.shields.io/badge/NLP-purple" /> <img src="https://img.shields.io/badge/TensorFlow-orange" /> <img src="https://img.shields.io/badge/scikit--learn-green" /> <img src="https://img.shields.io/badge/Git-black" />
-___________________________________________________________________________________________________________________________________________________________________________________________
 
 ### 🧩 Soft Skills
 - 🧠 Problem Solving  
@@ -85,6 +87,7 @@ ________________________________________________________________________________
 - NLP Systems
 - Automation & Scripting
 - AI System Design
+---
 
 ### 🤖 GrowSmart
 
@@ -122,6 +125,6 @@ It helps individuals and businesses:
 
 ### ⚡ Fun Fact
 
-I don’t just build projects—I build systems that solve real problems and create impact.
+I don’t just build projects, I build systems that solve real problems and create impact.
 
 -->
