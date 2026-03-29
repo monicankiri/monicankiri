@@ -1,23 +1,28 @@
 
-# Monica Enyam Nkiri – AI System Builder 
+# Monica Nkiri – AI System Builder 
 
-## About Me  
+## 🚀 About Me
 
-I focus on solving real-world business and operational problems by designing and deploying intelligent systems, AI tools, and automation solutions. My goal is not just to build products, but to **turn challenges into actionable solutions** that help people and businesses thrive.  
+I design and build AI systems, automation tools, and intelligent solutions that solve real-world problems.
 
-I believe everyone has something valuable to offer, and I create the tools, workflows, and environments that enable people and organizations to succeed. Each project I work on transforms insights into action, problems into solutions, and small steps into intelligent systems that grow over time.  
+My work focuses on turning ideas → systems → impact.
 
-GrowSmart is my platform to **empower others through problem-solving technology**. I design and develop **tools, AI systems, and workflows** that address real-world challenges—progressing step by step from Python scripts → AI prototypes → robotics integration.  
-
-I am an AI system builder and aspiring founder, currently developing projects under GrowSmart while pursuing my **Master’s in AI for Business & Robotics**. Every project is grounded in solving real problems and creating measurable impact for those who use it.  
-
+## 🚀 What I Do
+___________________________________________________________________________________________________________________________________________________________________________________________
+- AI & Machine Learning
+- Automation & Workflow Systems
+- Problem-solving for businesses
+- Building scalable solutions through GrowSmart
+- Continuously learn, build, and ship projects
 ---
 
-## Current Focus
-- Python & ML projects  
-- AI system prototypes  
-- Robotics and intelligent system integration  
-- Startup solutions under GrowSmart (business + AI products)
+## 🔥 Current Focus
+____________________________________________________________________________________________________________________________________________________________________________________________
+- 🧠 AI System Design
+- 🐍 Python Development
+- 🤖 Automation & Robotics
+- 🚀 Building GrowSmart (AI-powered business platform)
+---
 
 ## 🌟 My Vision
 To empower people and businesses by creating **intelligent systems that solve real-world problems**, one project at a time—turning everyday challenges into growth opportunities through GrowSmart.
@@ -37,33 +42,99 @@ Finally, my mission is clear: everyone has something valuable to offer, and I bu
 _____________________________________________________________________________________________________________________________________________________________________________________
 These projects represent my current technical level and growth as a data professional:
 
+🔹 CustomerManager (Core System)
+
+Problem: Managing customer data efficiently
+Solution: Built a structured system for tracking and organizing customer data
+Tech: Python, SQLite
+---
+🔹 ChatbotAgent
+
+Problem: Automating customer communication
+Solution: Built an NLP-based chatbot system
+Tech: Python, NLP
+---
+🔹 DataCleaner (Automation Tool)
+
+Problem: Repetitive data cleaning
+Solution: Automated preprocessing workflows
+Tech: Python, Pandas
+---
+🔹 GrowSmart (AI Platform)
+
+Problem: Helping businesses grow using intelligent systems
+Solution: AI-powered tools for insights, automation, and decision support
+Tech: Python, AI Concepts
+---
 💼 Salary Prediction
 
 Built a regression model to predict salaries based on factors such as experience, education, and role. Skills: EDA, feature engineering, regression modeling, evaluation metrics.
-
-🍷 Wine Quality Prediction
-
-Developed a machine learning model to predict wine quality using physicochemical features. Skills: Data preprocessing, classification/regression, model comparison.
-
+---
 🧬 Prostate Cancer Analysis
 
 Analyzed clinical data to understand key factors influencing prostate cancer outcomes. Skills: EDA, statistical analysis, supervised learning, healthcare data handling.
-
-- **DataCleaner (Python Script):** Automates data cleaning for analysis tasks  
-- **ChatbotAgent (AI System):** Simple NLP-based system solving customer inquiries  
-- **InventoryOptimizer (Startup Product):** AI-powered optimization system for small businesses
+---
 
 ### Work-in-Progress / Experimental Projects
 - **RecommendationEngine (AI System):** Personalized recommendation prototype  
 - **SmartArmController (Robotics Demo):** Mini robotics integration for automated tasks  
 - **AutomationToolkit (Python Scripts):** Collection of small workflow automation tools
--
-  ## 🛠️Core Skills & Tools
-- **Languages:** Python, SQL  
-- **AI / ML:** Machine Learning, NLP, Recommendation Systems  
-- **Frameworks & Tools:** TensorFlow, PyTorch, scikit-learn, Flask, FastAPI  
-- **Automation & Robotics:** Scripting, Raspberry Pi, Arduino, IoT integration 
-> All projects include README docs with problem → solution → tech stack → demo links.
+---
+🧠 Skills & Tools
+_________________________________________________________________________________________________________________________________________________________________________________________
+<p align="center"> <img src="https://img.shields.io/badge/Python-blue" /> <img src="https://img.shields.io/badge/SQL-yellow" /> <img src="https://img.shields.io/badge/Machine%20Learning-red" /> <img src="https://img.shields.io/badge/NLP-purple" /> <img src="https://img.shields.io/badge/TensorFlow-orange" /> <img src="https://img.shields.io/badge/scikit--learn-green" /> <img src="https://img.shields.io/badge/Git-black" /> </p>
+
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+## 🛠️Core Skills
+
+### 💻 Programming & Querying
+- 🐍 Python  
+- 🅁 R  
+- 🗄️ SQL / PostgreSQL  
+
+### 📊 Data Analysis & Visualization
+- 📈 Data Exploration & EDA (pandas, NumPy, dplyr, tidyverse)  
+- 📊 Visualization (Matplotlib, Seaborn, ggplot2)  
+
+### 🤖 Machine Learning & AI
+- 🧮 Regression & Classification  
+- 🔍 Clustering & Anomaly Detection  
+- 🧬 Feature Engineering & Model Evaluation  
+- 🛠️ Scikit-learn, TensorFlow, Keras 
+
+### 💬 Natural Language Processing (NLP)
+- 📝 Text Cleaning & Preprocessing  
+- 🔢 Vectorization & Feature Extraction  
+- 📧 Classification Models (Spam Detection, NLP tasks)  
+- 🧰 Tools: NLTK, spaCy  
+
+### 🗃️ Data Management & Tools
+- 🗄️ PostgreSQL / SQL  
+- 💾 Git & GitHub  
+- 📓 Jupyter Notebook
+
+## Automation & Robotics
+- Scripting, Raspberry Pi, Arduino, IoT integration
+- All projects include README docs with problem → solution → tech stack → demo links.
+
+### 🧩 Soft Skills
+- 🧠 Problem Solving  
+- 💬 Communication  
+- 🤝 Team Collaboration  
+- 📚 Self-Learning & Growth Mindset
+
+## 🏆 Skills at a Glance:
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-blue?style=plastic)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=plastic)	
+![R](https://img.shields.io/badge/R-Programming-green?style=plastic)	
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-yellow?style=plastic)	
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-red?style=plastic)	
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-orange?style=plastic)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Charts%20%26%20Graphs-blue?style=plastic)	
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-EDA-green?style=plastic)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Critical%20Thinking-blue?style=plastic)	
+![Communication](https://img.shields.io/badge/Communication-Clear%20Reporting-green?style=plastic)	
 
 ## Connect With Me
 - LinkedIn:www.linkedin.com/in/nkiri-monica-2b220b268
@@ -71,15 +142,4 @@ Analyzed clinical data to understand key factors influencing prostate cancer out
 - YouTube: https://www.youtube.com/channel/UChQwUO89fJV3yAK6Tv9P_ag
 - GitHub: https://github.com/monicankiri
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
