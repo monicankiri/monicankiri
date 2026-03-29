@@ -119,12 +119,10 @@ To empower people and businesses by creating intelligent systems that turn probl
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monicankiri&show_icons=true&theme=default" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicankiri&layout=compact" /> </p>
 
 ### 📫 Connect With Me
-<p align="center"> 
 • <a href="https://www.linkedin.com/in/nkiri-monica-2b220b268">LinkedIn</a> 
 • <a href="https://medium.com/@nkirimonica0">Medium</a> 
 • <a href="https://www.youtube.com/channel/UChQwUO89fJV3yAK6Tv9P_ag">YouTube</a> 
 • <a href="https://github.com/monicankiri">GitHub</a> 
-</p>
 
 ### ⚡ Fun Fact
 
