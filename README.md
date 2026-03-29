@@ -17,7 +17,7 @@ My work focuses on turning ideas → systems → impact.
 ---
 
 ## 🔥 Current Focus
-____________________________________________________________________________________________________________________________________________________________________________________________
+
 - 🧠 AI System Design
 - 🐍 Python Development
 - 🤖 Automation & Robotics
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 ---
 
 ## 📂 Featured Projects
-_____________________________________________________________________________________________________________________________________________________________________________________
+
 These projects represent my current technical level and growth as a data professional:
 
 ### 🔹 CustomerManager (Core System)
@@ -38,21 +38,27 @@ Tech: Python, SQLite.
 
 ### 🔹 ChatbotAgent
 
-Problem: Automating customer communication
-Solution: Built an NLP-based chatbot system
+Problem: Automating customer communication.
+
+Solution: Built an NLP-based chatbot system.
+
 Tech: Python, NLP
 
 ### 🔹 DataCleaner (Automation Tool)
 
 Problem: Repetitive data cleaning.
-Solution: Automated preprocessing workflows
-Tech: Python, Pandas
+
+Solution: Automated preprocessing workflows.
+
+Tech: Python, Pandas.
 
 ### 🔹 GrowSmart (AI Platform)
 
-Problem: Helping businesses grow using intelligent systems
-Solution: AI-powered tools for insights, automation, and decision support
-Tech: Python, AI Concepts
+Problem: Helping businesses grow using intelligent systems.
+
+Solution: AI-powered tools for insights, automation, and decision support.
+
+Tech: Python, AI Concepts.
 
 ### 💼 Salary Prediction
 
@@ -62,7 +68,8 @@ Built a regression model to predict salaries based on factors such as experience
 ### 🧬 Prostate Cancer Analysis
 
 Analyzed clinical data to understand key factors influencing prostate cancer outcomes. Skills: EDA, statistical analysis, supervised learning, healthcare data handling.
----
+
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 ### Work-in-Progress / Experimental Projects
 
