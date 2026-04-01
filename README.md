@@ -3,79 +3,15 @@
 
 ## 🚀 About Me
 
-I design and build AI systems, automation tools, and intelligent solutions that solve real-world problems.
+I build AI-powered systems that help small businesses in West Africa stop losing customers through poor follow-up and disorganized operations.
 
-My work focuses on turning ideas → systems → impact.
+Currently building SmartOps — an intelligent customer tracking and follow-up system for Nigerian SMEs. Documenting every step of the build publicly.
 
-## 🚀 What I Do
+Current Stack: Python, Pandas, Sklearn, LLM APIs
 
-- AI & Machine Learning
-- Automation & Workflow Systems
-- Problem-solving for businesses
-- Building scalable solutions through GrowSmart
-- Continuously learn, build, and ship projects
----
+Currently Learning: Data cleaning, AI API integration, Streamlit deployment
 
-## 🔥 Current Focus
-
-- 🧠 AI System Design
-- 🐍 Python Development
-- 🤖 Automation & Robotics
-- 🚀 Building GrowSmart (AI-powered business platform)
----
-
-## 📂 Featured Projects
-
-These projects represent my current technical level and growth as a data professional:
-
-### 🔹 CustomerManager (Core System)
-
-Problem: Managing customer data efficiently.
-
-Solution: Built a structured system for tracking and organizing customer data.
-
-Tech: Python, SQLite.
-
-### 🔹 ChatbotAgent
-
-Problem: Automating customer communication.
-
-Solution: Built an NLP-based chatbot system.
-
-Tech: Python, NLP
-
-### 🔹 DataCleaner (Automation Tool)
-
-Problem: Repetitive data cleaning.
-
-Solution: Automated preprocessing workflows.
-
-Tech: Python, Pandas.
-
-### 🔹 GrowSmart (AI Platform)
-
-Problem: Helping businesses grow using intelligent systems.
-
-Solution: AI-powered tools for insights, automation, and decision support.
-
-Tech: Python, AI Concepts.
-
-### 💼 Salary Prediction
-
-Built a regression model to predict salaries based on factors such as experience, education, and role. Skills: EDA, feature engineering, regression modeling, evaluation metrics.
-
-
-### 🧬 Prostate Cancer Analysis
-
-Analyzed clinical data to understand key factors influencing prostate cancer outcomes. Skills: EDA, statistical analysis, supervised learning, healthcare data handling.
-
-__________________________________________________________________________________________________________________________________________________________________________________________
-
-### Work-in-Progress / Experimental Projects
-
-- **RecommendationEngine (AI System):** Personalized recommendation prototype  
-- **SmartArmController (Robotics Demo):** Mini robotics integration for automated tasks  
-- **AutomationToolkit (Python Scripts):** Collection of small workflow automation tools
+Stage: Early builder. Real projects, real problems, real progress
 ---
 
 🧠 Skills & Tools
@@ -88,17 +24,12 @@ ________________________________________________________________________________
 - 🤝 Team Collaboration  
 - 📚 Self-Learning & Growth Mindset
 
-### 📊 Core Capabilities
-- Data Analysis & Visualization
-- Machine Learning Models
-- NLP Systems
-- Automation & Scripting
-- AI System Design
+
 ---
 
-### 🤖 GrowSmart
+### 🤖 SmartOps
 
-GrowSmart is my AI-powered platform for solving real-world problems.
+SmartOps is my AI-powered platform for solving real-world problems.
 
 It helps individuals and businesses:
 
