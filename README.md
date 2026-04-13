@@ -1,4 +1,4 @@
-# # Monica Nkiri — AI Developer & System Builder
+# Monica Nkiri — AI Developer & System Builder
 
 I build AI-powered systems that help businesses in West Africa stop losing customers through poor follow-up and disorganized operations.
 
