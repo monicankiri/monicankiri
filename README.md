@@ -84,16 +84,13 @@ A simple system that helps SMEs:
 
 ## Skills
 
-python
-skills = {
-    "AI & APIs":        ["Claude API", "Prompt Engineering", "LLM integration", "AI system design"],
-    "Python":           ["Functions", "Classes", "OOP", "File I/O", "Automation", "REST APIs"],
-    "Machine Learning": ["scikit-learn", "XGBoost", "Regression", "Classification", "Feature Engineering"],
-    "Data":             ["Pandas", "NumPy", "Matplotlib", "Seaborn", "EDA", "PostgreSQL", "SQL"],
-    "NLP":              ["Text preprocessing", "Vectorization", "NLTK", "spaCy"],
-    "Tools":            ["Git", "GitHub", "FastAPI", "Jupyter", "VS Code"],
-    "Building":         ["Product thinking", "Technical writing", "Building in public"],
-}
+  - "AI & APIs":        ["Claude API", "Prompt Engineering", "LLM integration", "AI system design"],
+  - "Python":           ["Functions", "Classes", "OOP", "File I/O", "Automation", "REST APIs"],
+  -  "Machine Learning": ["scikit-learn", "XGBoost", "Regression", "Classification", "Feature Engineering"],
+  - "Data":             ["Pandas", "NumPy", "Matplotlib", "Seaborn", "EDA", "PostgreSQL", "SQL"],
+  -  "NLP":              ["Text preprocessing", "Vectorization", "NLTK", "spaCy"],
+  - "Tools":            ["Git", "GitHub", "FastAPI", "Jupyter", "VS Code"],
+  -  "Building":         ["Product thinking", "Technical writing", "Building in public"],
 
 ---
 
